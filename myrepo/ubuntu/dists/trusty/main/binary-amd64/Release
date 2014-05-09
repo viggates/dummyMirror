@@ -1,0 +1,7 @@
+Archive: trusty
+Component: main
+Origin: Test
+Label: Test
+Architecture: amd64
+Description: Test Archive
+

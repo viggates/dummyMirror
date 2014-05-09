@@ -1,0 +1,16 @@
+Package: mypackage
+Version: 1.0-833
+Architecture: amd64
+Maintainer: root <root@unknown>
+Installed-Size: 38
+Depends: apache2
+Filename: pool/main/m//mypackage_1.0-833_amd64.deb
+Size: 2244
+MD5sum: c3775de772a0727501c6afbfac2899ed
+SHA1: ab749abd033b02164667ac4565241301256f953b
+SHA256: ae17055dfb82df3a2beb2107e98f35364c43632c9ac0f9a029bab018e3f62fec
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: dummy package
+

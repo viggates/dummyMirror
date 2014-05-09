@@ -1,0 +1,25 @@
+Date: Thu, 08 May 2014 23:39:03 UTC
+MD5Sum:
+ d7ea170f40f24146a5c90e25ed75042f             2234 Release
+ 526e83d47eebf9a1bedfbf92d84e8d6e              457 main/binary-amd64/Packages
+ b6134d9368ff63f4660da2e8768ed77c              369 main/binary-amd64/Packages.gz
+ ea37f83d2ad6d4cbb2ffc111b1324069              104 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
+SHA1:
+ a68cba3b9204d261d6d3b1d892244e717d3dcd06             2234 Release
+ dad403eadea4200d5562df904f4a66b890ad37dc              457 main/binary-amd64/Packages
+ 31212f45f412d11158ebfbdb95bf01a48b05b70e              369 main/binary-amd64/Packages.gz
+ d65ab676e3a57b61bf04f990c1f5b5c1a91ddf1b              104 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
+SHA256:
+ bb2edf76c4d44f83ed882adcf086b216d667b7e6a901fc1dda444fc2409e03c8             2234 Release
+ 979113d1678eacab9c3198d0244bd39d935d323fd2b5495481917e1c64de4d95              457 main/binary-amd64/Packages
+ 56b08efad9c5e311189b1641f1cdfa619efe7754e8ea0301e7c81dc76e0890f4              369 main/binary-amd64/Packages.gz
+ 9bd538be46967dff7adce50df2f3b0dbccd3395e7bf2c5fe27e800b749f98d8a              104 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
+SHA512:
+ 19f27a6532a53921a2bd65d589fc249a04e05176f21b4fd28f975725348fc0d721fffc46fea081e2896f679c4a377ee4e36ae01c2736cd54f0384e3700e50ac0             2234 Release
+ 1b3a02df91d2731491b9efcd0ea93ae11e30de2c048b55df6bacb5a38182669221a6035ca15410135b13651ecd7daa3b1ac173e47983ebfdd01f5c5556a1e577              457 main/binary-amd64/Packages
+ 2014f2e735f5651e96d0f8748ea57d202d24826b2fa3db423eba50a8a28f46107bde1edab8f510480178ae73bd0b4371d39cf9a499d689bf166ce8cbf1a8b4ec              369 main/binary-amd64/Packages.gz
+ 36d46612a68770142731c109d1ed3dc39e7d272cd7eb7dae08569f161efae7b70086137d6720c07532c57f6d4667cfab9340fd0e881f374b59f05886c4ab0613              104 main/binary-amd64/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
